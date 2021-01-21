@@ -28,3 +28,12 @@
 ## Insert text repeatedly
 
 - `3iHello + Esc` - Insert the word 'Hello' three times.
+
+## Search methods
+- `f + character` - Find the next character selected. `fa` find next 'a'.
+- `Number + f + character` - Find the occurrence number of character. `3fa` find the 3rd occurrence of 'a'.
+- `*` - Find the next occurrence of the word under cursor.
+- `#` - Find the previous occurrence of the word under cursor.
+- `/ + text or regexps` - Find the subsequent matches. `/text` search the word 'text'.
+- `n` - Repeat the search for next occurrence.
+- `N` - Repeat the search for previous occurrence.
