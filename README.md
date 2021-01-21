@@ -16,6 +16,9 @@
 - ### Normal mode
     `Esc` - *Enter to normal mode.*
 
+- ### Visual mode
+    `v` - *Enter to visual mode.*
+
 ## Basic movements
 
 - `h` - Move to the left.
