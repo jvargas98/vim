@@ -24,3 +24,7 @@
 
 - `5w` - Move to the next five words, the same as pressing `w` five times.
 - `5l` - Move to the next five characteres.
+
+## Insert text repeatedly
+
+- `3iHello + Esc` - Insert the word 'Hello' three times.
