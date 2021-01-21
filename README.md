@@ -19,3 +19,8 @@
 - `b` - Move to the beginning of the word.
 - `w` - Move to the start of the next word.
 - `e` - Move to the end of the word.
+
+## Number powered movements
+
+- `5w` - Move to the next five words, the same as pressing `w` five times.
+- `5l` - Move to the next five characteres.
