@@ -1,5 +1,14 @@
 # Vim commands
 
+## Basic
+
+- `:w` - Save document.
+- `:q` - Quit document.
+- `:q!` - Quit document without saving.
+- `:help` - Show commands.
+- `u` - Undo a change.
+- `Ctrl + R` - Redo a change.
+
 ## Modes
 
 - ### Insert mode
