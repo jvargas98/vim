@@ -64,3 +64,5 @@
 - `dw` - Delete the first word after cursor.
 - `db` - Delete the first word before cursor.
 - `d + number + e` - Delete the next number of words.
+- `ve` - Select a word.
+- `veld` - Delete selected word.
