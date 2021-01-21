@@ -37,3 +37,14 @@
 - `/ + text or regexps` - Find the subsequent matches. `/text` search the word 'text'.
 - `n` - Repeat the search for next occurrence.
 - `N` - Repeat the search for previous occurrence.
+
+## Manipulate text
+
+- `o` - Insert text into a new line.
+- `O` - Insert new line above the current line.
+- `x` - Romove the last character.
+- `X` - Remove the previous character.
+- `r` - Replace character under cursor.
+- `dw` - Delete the first word after cursor.
+- `db` - Delete the first word before cursor.
+- `d + number + e` - Delete the next number of words.
