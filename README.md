@@ -13,7 +13,11 @@
 - `l` - Move to the right.
 - `k` - Move to the up.
 - `j` - Move to the down.
-
+- `0` - Move to the start of line.
+- `$` - Move to the end of line.
+- `gg` - Move to the beginning of the file.
+- `G` - Move to the end of the file.
+- `3G` - Move to the line 3.
 ## Word movements
 
 - `b` - Move to the beginning of the word.
